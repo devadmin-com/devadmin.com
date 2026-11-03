@@ -15,6 +15,8 @@ jobs/index.html          Jobs
 assets/css/site.css      All styles (colour tokens at the top)
 assets/js/site.js        Mobile menu + gallery lightbox
 assets/img/              Logo, favicons, gallery/ (NAME.webp full size, NAME-sm.webp thumbnail)
+robots.txt               Blocks all crawlers (site is not meant to be crawled)
+sitemap.xml              List of page URLs
 CNAME                    Custom domain for GitHub Pages
 .nojekyll                Tells Pages to serve files as-is (no Jekyll)
 ```
